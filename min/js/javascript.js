@@ -2,7 +2,6 @@ let a = 0.1;
 let b = 0.2;
 alert(`сумма чисел 0.1 и 0.2 равна ${a + b}`);
 
-// let string = Number('1');
 let string = ('1');
 let num = 2;
 alert(`сумма чисел 1 и 2 равна ${(+string + num)}`);
